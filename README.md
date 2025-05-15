@@ -1,4 +1,4 @@
-# Contextum — Simplifying MCP Server Distribution for a Decentralized AI Future
+# Contextum, Simplifying MCP Server Distribution for a Decentralized AI Future
 
 ---
 
