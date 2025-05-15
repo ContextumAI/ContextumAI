@@ -65,10 +65,10 @@ flowchart TD
 
 | Timeline  | Milestones                             |
 | --------- | ------------------------------------ |
-| Q2 2025   | Complete secure runtime and CLI MVP  |
-| Q3 2025   | Enable decentralized image registry  |
-| Q4 2025   | Launch DAO governance and community templates |
-| Q1 2026+  | Enterprise integrations; IPFS logging |
+| Phase 1   | Complete secure runtime and CLI MVP  |
+| Phase 2   | Enable decentralized image registry  |
+| Phase 3   | Launch DAO governance and community templates |
+| Phase 4  | Enterprise integrations; IPFS logging |
 
 ---
 
