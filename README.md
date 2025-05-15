@@ -4,7 +4,7 @@
 
 ## Overview
 
-Contextum is building the infrastructure layer to deploy, manage, and govern Model Context Protocol (MCP) servers in a decentralized, secure, and scalable way — starting with Ethereum Virtual Machine (EVM) compatible blockchains.
+Contextum is building the infrastructure layer to deploy, manage, and govern Model Context Protocol (MCP) servers in a decentralized, secure, and scalable way, starting with Ethereum Virtual Machine (EVM) compatible blockchains.
 
 Our platform unlocks frictionless deployment of AI model context servers with cryptographic verification, token-based permissioning, and on-chain governance.
 
